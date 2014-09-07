@@ -1,0 +1,14 @@
+{
+  "name": "ABBD-Any Bank Branch Details",
+  "description": "Provides IFSC codes,Locations,Phone numbers of Indian Banks",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "1.jpg",
+    "16": "2.jpg"
+  },
+  "developer": {
+    "name": "Bala Subramaniyan",
+    "url": "https://developer.mozilla.org/en-US/profiles/BalaSubramaniyan"
+  },
+  "default_locale": "en"
+}
